@@ -460,3 +460,5 @@ while True:
 		print(" \n Potenza distruttiva: \n Velocità: \n Raggio d'azione: \n Durata azione: \n Precisione: \n Potenzialità di crescita:")
 	if Jojo == "":
 		print(" \n Potenza distruttiva: \n Velocità: \n Raggio d'azione: \n Durata azione: \n Precisione: \n Potenzialità di crescita:")
+	if Jojo == "samu369":
+		print("https://dsc,gg/369")
